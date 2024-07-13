@@ -13,7 +13,7 @@ This web application allows users to search for movie names and retrieve informa
 - CSS3
 - JavaScript
 - Movie Database API
-- 
+
 API Usage - https://api.themoviedb.org
 
 This web application utilizes the Movie Database API to fetch movie information. The API allows us to search for movies by their title and retrieve detailed information about each movie. To ensure proper usage of the API, please refer to the API provider's documentation for any rate limits, authentication requirements, and usage guidelines.
