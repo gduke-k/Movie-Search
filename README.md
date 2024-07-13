@@ -18,6 +18,6 @@ API Usage - https://api.themoviedb.org
 
 This web application utilizes the Movie Database API to fetch movie information. The API allows us to search for movies by their title and retrieve detailed information about each movie. To ensure proper usage of the API, please refer to the API provider's documentation for any rate limits, authentication requirements, and usage guidelines.
 
-Contributing
+## Contributing
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
