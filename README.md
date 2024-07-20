@@ -14,6 +14,9 @@ This web application allows users to search for movie names and retrieve informa
 - JavaScript
 - Movie Database API
 
+## Screenshot
+# ![Movie](https://github.com/user-attachments/assets/bf637b73-1b20-4f40-afd5-1845434c4bdf)
+
 API Usage - https://api.themoviedb.org
 
 This web application utilizes the Movie Database API to fetch movie information. The API allows us to search for movies by their title and retrieve detailed information about each movie. To ensure proper usage of the API, please refer to the API provider's documentation for any rate limits, authentication requirements, and usage guidelines.
